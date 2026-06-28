@@ -45,7 +45,7 @@
 
 ## 1: Dueño de la Empresa Constructora
 
-###  HU1 - Visualización general del sistema
+###  HU01 - Visualización general del sistema
 **Como** dueño de la empresa constructora,  
 **quiero** visualizar el estado general de todas las obras,  
 **para** poder tomar decisiones estratégicas basadas en información actualizada.
@@ -54,17 +54,17 @@
 
 ## 2: Encargado de Obra
 
-### HU2 - Asignación de empleados
+### HU02 - Asignación de empleados
 **Como** encargado de obra,  
 **quiero** asignar empleados a distintas obras,  
 **para** organizar correctamente el trabajo diario.
 
-### HU3 - Gestión de tareas
+### HU03 - Gestión de tareas
 **Como** encargado de obra,  
 **quiero** registrar y actualizar tareas dentro de cada obra,  
 **para** controlar el avance operativo del proyecto.
 
-### HU4 - Seguimiento de avances
+### HU04 - Seguimiento de avances
 **Como** encargado de obra,  
 **quiero** registrar el progreso de las actividades,  
 **para** mantener actualizado el estado de la obra.
@@ -73,17 +73,17 @@
 
 ## 3: Empleados de Obra
 
-### HU5 - Consulta de obras
+### HU05 - Consulta de obras
 **Como** empleado de obra,  
 **quiero** consultar la información de la obra en la que trabajo,  
 **para** entender el contexto de mis tareas.
 
-### HU6 - Consulta de tareas
+### HU06 - Consulta de tareas
 **Como** empleado de obra,  
 **quiero** ver mis tareas asignadas,  
 **para** saber qué actividades debo realizar.
 
-### HU7 - Reporte de actividades
+### HU07 - Reporte de actividades
 **Como** empleado de obra,  
 **quiero** informar el estado de mis tareas,  
 **para** mantener actualizado el progreso del proyecto.
@@ -92,15 +92,15 @@
 
 ## 4: Área Administrativa
 
-### HU8 - Gestión de información
+### HU08 - Registrar Empleados
 **Como** área administrativa,  
-**quiero** mantener actualizados los datos de obras y empleados,  
-**para** asegurar la coherencia de la información del sistema.
+**quiero** registrar empleados en el sistema,  
+**para** poder asignarlos posteriormente a las distintas obras de construcción.
 
-### HU09 - Consulta centralizada
+### HU09 - Registrar Obras
 **Como** área administrativa,  
-**quiero** acceder a toda la información de las obras,  
-**para** facilitar el control administrativo.
+**quiero** registrar obras en el sistema,  
+**para** gestionar los proyectos de construcción de forma centralizada.
 
 ### HU10 - Generación de reportes
 **Como** área administrativa,  
