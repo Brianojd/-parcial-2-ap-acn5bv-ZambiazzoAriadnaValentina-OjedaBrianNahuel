@@ -23,7 +23,7 @@
 - **RF01:** El sistema debe permitir registrar, editar y eliminar empleados.
 - **RF02:** El sistema debe permitir registrar, editar y eliminar obras.
 - **RF03:** El sistema debe permitir asignar empleados a obras.
-- **RF04:** El sistema debe permitir visualizar lps empleados por obra.
+- **RF04:** El sistema debe permitir visualizar los empleados por obra.
 - **RF05:** El sistema debe permitir registrar tareas a obras.
 - **RF06:** El sistema debe permitir asignar tareas a empleados asociados a esa obra.
 - **RF07:** El sistema debe permitir visualizar el estado de avance de las tareas.
