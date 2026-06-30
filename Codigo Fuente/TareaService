@@ -1,0 +1,22 @@
+public class TareaService
+{
+    public void RegistrarTarea()
+    {
+     
+    }
+
+    public void AsignarTareaAEmpleado()
+    {
+       
+    }
+
+    public void ConsultarTareasAsignadas()
+    {
+      
+    }
+
+    public void ActualizarEstadoTarea()
+    {
+        
+    }
+}
