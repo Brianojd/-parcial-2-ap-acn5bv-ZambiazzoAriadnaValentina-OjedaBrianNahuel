@@ -1,0 +1,12 @@
+public class AsignacionService
+{
+    public void AsignarEmpleadoAObra()
+    {
+       
+    }
+
+    public void VisualizarEmpleadosPorObra()
+    {
+        
+    }
+}
